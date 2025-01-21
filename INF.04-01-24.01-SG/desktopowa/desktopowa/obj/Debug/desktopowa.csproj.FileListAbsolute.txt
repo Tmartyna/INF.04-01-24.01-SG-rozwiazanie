@@ -1,0 +1,10 @@
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\bin\Debug\desktopowa.exe.config
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\bin\Debug\desktopowa.exe
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\bin\Debug\desktopowa.pdb
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\obj\Debug\desktopowa.csproj.AssemblyReference.cache
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\obj\Debug\desktopowa.Form1.resources
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\obj\Debug\desktopowa.Properties.Resources.resources
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\obj\Debug\desktopowa.csproj.GenerateResource.cache
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\obj\Debug\desktopowa.csproj.CoreCompileInputs.cache
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\obj\Debug\desktopowa.exe
+C:\Users\lazyb\source\repos\desktopowa\desktopowa\obj\Debug\desktopowa.pdb
